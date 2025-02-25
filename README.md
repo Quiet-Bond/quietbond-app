@@ -109,13 +109,13 @@ quietbond-app/
 5. Open a pull request against the `develop` branch, following the CI/CD pipeline checks.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- **Author**: [Your Name or GitHub Username]  
-- **Email**: your.email@example.com  
-- **GitHub**: [github.com/your-username](https://github.com/your-username)  
-- **Project Link**: [github.com/your-username/quietbond-app](https://github.com/your-username/quietbond-app)
+- **Author**: [missaugustina]  
+- **Email**: quietbond@gmail.com  
+- **GitHub**: [github.com/quietbond](https://github.com/quietbond)  
+- **Project Link**: [github.com/quietbond/quietbond-app](https://github.com/quietbond/quietbond-app)
 
 Feel free to reach out with questions, feedback, or collaboration ideas!
 ```
