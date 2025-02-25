@@ -1,6 +1,6 @@
-# QuietBond - Dating App for Demisexuals and Sapiosexuals
+# QuietBond - Friendship App for Demisexuals and Sapiosexuals
 
-Welcome to QuietBond, a React Native mobile application designed for demisexuals and sapiosexuals seeking meaningful, trust-based friendships and connections. Inspired by the nostalgia of 1990s text-based MUDs and 1980s pen-pal exchanges, QuietBond offers a minimalist, cozy, and intellectual experience.
+Welcome to QuietBond, a React Native mobile application designed for demisexuals and sapiosexuals seeking meaningful, intimate, trust-based friendships and connections. Inspired by the nostalgia of 1990s text-based MUDs and 1980s pen-pal exchanges, QuietBond offers a minimalist, cozy, and intellectual experience.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,7 +15,7 @@ Welcome to QuietBond, a React Native mobile application designed for demisexuals
 - [Contact](#contact)
 
 ## Overview
-QuietBond is a mobile app built with React Native and Expo, using Firebase for real-time data and authentication. It prioritizes deep emotional and intellectual connections, featuring screens like Welcome, Login, Signup, Home, Prompt, and Chat. The app de-emphasizes photos, preferring custom art and avatars to create a unique and authentic user experience.
+QuietBond is a mobile app built with React Native and Expo, using Firebase for real-time data and authentication. It prioritizes deep emotional and intellectual connections, featuring screens like Welcome, Login, Signup, Home, Prompt, and Chat. The app de-emphasizes photos, preferring custom art and avatars to create an authentic user experience.
 
 ## Features
 - **Text-First Connections**: No photos initially—users connect through thoughtful prompts and bios, echoing MUDs and pen-pal letters.  
